@@ -17,3 +17,9 @@ this is a collection of tools , hodgepodge together to build a fast and uniform 
 experience to build and deploy ML/AI applications faster.
 
 
+### References:
+
+1. [ORM connection](https://docs.sqlalchemy.org/en/20/intro.html) -- Thanks Reddit!
+2. [Rolling your own Auth](https://www.youtube.com/watch?v=CcrgG5MjGOk) -- Thanks Ben Awad!
+3. [Building AI Agents, atomically](https://github.com/BrainBlend-AI/atomic-agents) -- Thanks Reddit!
+
