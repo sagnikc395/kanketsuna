@@ -22,6 +22,11 @@ Apart from DHH, this blog post has been an huge inspiration on how to setup a Py
 
 https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html
 
+### Deployment:
+
+1. [Frontend](https://vercel.com)
+2. [Backend](https://render.com)
+
 
 ### References:
 

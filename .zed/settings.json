@@ -1,0 +1,9 @@
+{
+  "languages": {
+    "Python": {
+      "language_servers": ["ruff"]
+      // Or, if there are other language servers you want to use with Python
+      // "language_servers": ["pyright", "ruff"]
+    }
+  }
+}
