@@ -17,9 +17,14 @@ this is a collection of tools , hodgepodge together to build a fast and uniform 
 experience to build and deploy ML/AI applications faster.
 
 
+### Inspiration :
+Apart from DHH, this blog post has been an huge inspiration on how to setup a Python monorepo:
+
+https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html
+
+
 ### References:
 
 1. [ORM connection](https://docs.sqlalchemy.org/en/20/intro.html) -- Thanks Reddit!
 2. [Rolling your own Auth](https://www.youtube.com/watch?v=CcrgG5MjGOk) -- Thanks Ben Awad!
 3. [Building AI Agents, atomically](https://github.com/BrainBlend-AI/atomic-agents) -- Thanks Reddit!
-
