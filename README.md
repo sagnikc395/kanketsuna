@@ -6,19 +6,19 @@ the speed of light
 ### background
 
 i was listening to Lex's podcast with DHH, and while i don't agree with a lot
-of stuff that DHH claims, I think that building stuff that can deploy changes and
-stuff can be made easier and faster.
+of stuff that DHH claims, I agree with his thinking of building stuff that can deploy changes and be helpful for us faster should be be the default
+for the "AI age.
 
-for the "AI age", we need a framework that can deploy faster and make stuff faster.
+we need a framework that is easy , fast and quick to deploy .
 
 ### what is this about ?
 
-this is a collection of tools , hodgepodge together to build a fast and uniform developer
+this is a collection of tools , hodgepodged together to build a fast and uniform developer
 experience to build and deploy ML/AI applications faster.
 
 
 ### Inspiration :
-Apart from DHH, this blog post has been an huge inspiration on how to setup a Python monorepo:
+Apart from RoR, this blog post has been an huge inspiration on how to setup a Python monorepo:
 
 https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html
 
